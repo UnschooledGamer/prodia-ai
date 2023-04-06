@@ -1,8 +1,11 @@
 ![Alt text](https://raw.githubusercontent.com/ryzvision/prodia/main/assets/prodia-banner.jpg "a title")
 
-# Prodia API
+# Prodia Image API
 
 This is a Node.js library for accessing the [Prodia API](https://docs.prodia.com/reference/getting-started). It allows you to easily create AI images.
+
+Unleash your creativity with lightning-fast performance and transform your ideas into stunning visuals in seconds.
+
 ## Installation
 
 Install the library using npm:
@@ -10,6 +13,8 @@ Install the library using npm:
 ```
 npm i prodia-ai
 ```
+
+Make sure you're using node >= 18 so fetch is available.
 
 ## Usage
 
@@ -68,3 +73,11 @@ If an error occurs during API requests, the library will output a message to the
 
 - If the API key is not set, the error message will be "The Prodia API Key is not set. Go to https://app.prodia.com/api and get an API key."
 - If the generation parameters are invalid, the error message will be "Invalid Generation Parameters: ${statusCode}".
+
+## Support Server
+
+Issue with API, Join official [Prodia server](https://discord.gg/495hz6vrFN)
+
+Join my support server for package issues & code help (also have fun)
+
+[<img src="https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner2" alt="Discord Banner 1"/>](https://discord.gg/TvjrWtEuyP)
